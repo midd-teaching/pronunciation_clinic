@@ -1,0 +1,895 @@
+---
+title: "Clínica de pronunciación"
+subtitle: "Sesión 1"
+author: "Joseph Casillas"
+date: "Middlebury College | 2018/07/10"
+output:
+  xaringan::moon_reader:
+    lib_dir: "./assets/"
+    css: ["default", "../site_libs/assets/css/mySlides.css"]
+    self_contained: FALSE
+    nature:
+      highlightStyle: monokai
+      highlightLines: TRUE
+      countIncrementalSlides: FALSE
+      ratio: "16:9"
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+
+background-image: url("../site_libs/assets/img/joseph_margarita.png")
+background-size: 400px
+background-position: 50% 90%
+class: inverse, center
+
+# Clínica de </br> pronunciación
+
+.big[
+
+¡**Bienvenidos**!
+
+]
+
+
+---
+background-image: url("../site_libs/assets/img/companero1.gif")
+background-size: 70%
+background-position: 50% 90%
+class: center
+
+<div id="hStripBlue"/>
+
+.jumbo[¡**Saluda a tu vecino**!]
+
+---
+background-image: url("../site_libs/assets/img/movil.png")
+background-position: 50% 50%
+background-size: 50%
+background-color: black
+
+---
+background-image: url("../site_libs/assets/img/pensar.png")
+background-position: 50% 100%
+background-size: 40%
+class: center
+
+.jumbo[
+
+<black>¿Por qué estamos aquí?</black>
+
+]
+
+---
+class: inverse, center
+
+.big[
+
+¿Por qué estudiar la </br> fonética?
+
+]
+
+<video width="500" controls>
+  <source src="../site_libs/assets/video/why_fonetica.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+---
+background-image: url("../site_libs/assets/img/boca1.png")
+background-size: 70%
+background-position: 70% 50%
+
+.jumbo[ **Meta**:]
+
+--
+
+</br></br>
+
+.myfootnote[ 
+
+.jumbo[
+
+<grey>Sacar el acento extranjero</grey>
+
+]
+
+]
+
+---
+background-image: url("../site_libs/assets/img/trabajo.png")
+background-position: 25% 50%
+background-size: 400px
+class: center, middle
+
+.pull-right[
+
+.big[
+
+Trabajo  
+
+Práctica  
+
+Paciencia  
+
+]
+
+]
+
+---
+background-image: url("../site_libs/assets/img/progreso.png")
+background-position: 100% 50%
+background-size: 57%
+class: middle
+
+.jumbo[
+
+<black>
+Progreso  
+</br>
+Individual
+</black>
+]
+
+---
+background-image: url("../site_libs/assets/img/doctors.png")
+background-position: 50% 40%
+background-size: 65%
+class: bottom, center
+
+<div id="hStripBlack"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Tienes acento extranjero?</white>
+]
+
+--
+
+<div id="hStripYellow"/>
+
+<div id="hStripBorder"/>
+
+.jumbo[<black>¡**Hola, chica bonita**!</black>]
+
+---
+background-image: url("../site_libs/assets/img/questions.png")
+background-position: 0% 50%
+background-size: 50%
+class: middle
+
+.pull-right[
+.big[&nbsp; &nbsp; ¿Preguntas?]
+]
+
+---
+class: inverse, middle, center
+
+.jumbo[
+**ENEMIGO** </br><white>#1</white>
+]
+
+---
+background-image: url("../site_libs/assets/img/schwa1.png")
+background-size: contain
+class: middle, center
+
+--
+
+.jumbo[
+**LA SCHWA**
+]
+
+---
+background-image: url("../site_libs/assets/img/schwa3.png")
+background-size: 400px
+background-position: 95% 50%
+class: middle
+
+# ¿Qué es una schwa?
+
+.jumbo[
+<blue>= sonido</blue>  
+INACENTUADO
+]
+
+---
+background-image: url("../site_libs/assets/img/schwa3.png")
+background-size: 400px
+background-position: 95% 50%
+class: middle
+
+# ¿Qué es una schwa?
+
+### - Es uno de los sonidos más comunes en inglés
+### - Aparece en la gran mayoría de las palabras
+
+---
+class: middle
+
+.big[
+
+- an**i**mal, fam**i**ly
+
+- th**e**, op**e**n, trav**e**l, it**e**m
+
+- b**a**nan**a**, **a**bout, w**a**s, **a**bove
+
+- gall**o**n, din**o**saur
+
+- partic**u**lar
+
+]
+
+---
+class: center
+
+<div id="hStripBlackTop"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Qué es una schwa?</white>
+]
+
+</br>
+
+.jumbo[ 
+**A** <grey>book</grey>
+]
+
+<div id="hStripBlack"/>
+
+<div>
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+</div>
+
+---
+class: center
+
+<div id="hStripBlackTop"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Qué es una schwa?</white>
+]
+
+</br>
+
+.jumbo[ 
+**The** <grey>book</grey>
+]
+
+<div id="hStripBlack"/>
+
+<div>
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+</div>
+
+---
+class: center
+
+<div id="hStripBlackTop"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Dónde está la schwa?</white>
+]
+
+</br></br></br></br>
+
+.jumbo[ 
+<grey>eleven</grey>
+]
+
+<div id="hStripBlack"/>
+
+<div>
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+</div>
+
+---
+class: center
+
+<div id="hStripBlackTop"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Dónde está la schwa?</white>
+]
+
+</br>
+
+.jumbo[ 
+**e**<grey>lev</grey>**e**<grey>n</grey>
+]
+
+<div id="hStripBlack"/>
+
+<div>
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+</div>
+
+---
+class: center
+
+<div id="hStripBlackTop"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Dónde está la schwa?</white>
+]
+
+</br></br></br></br>
+
+.jumbo[ 
+<grey>history</grey>
+]
+
+<div id="hStripBlack"/>
+
+<div>
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+</div>
+
+---
+class: center
+
+<div id="hStripBlackTop"/>
+
+</br></br></br>
+
+.jumbo[
+<white>¿Dónde está la schwa?</white>
+]
+
+</br>
+
+.jumbo[ 
+hist**o**ry
+]
+
+<div id="hStripBlack"/>
+
+<div>
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+ <img width="240" src="../site_libs/assets/img/schwa5.png">
+</div>
+
+---
+class: center, middle
+
+.jumbo[
+<black>¿Cómo suena la schwa?</black>
+]
+
+</br>
+
+<audio controls>
+  <source src="../site_libs/assets/wav/Mid-central_vowel.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+---
+background-image: url("../site_libs/assets/img/schwa_homer.png")
+background-size: contain
+
+</br>
+
+<audio controls>
+  <source src="../site_libs/assets/wav/schwa_homer.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+---
+background-image: url("../site_libs/assets/img/schwa_butthead.png")
+background-size: contain
+
+</br>
+
+<audio controls>
+  <source src="../site_libs/assets/wav/schwa_butthead.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+---
+background-image: url("../site_libs/assets/img/schwa6.png")
+background-size: 250px
+background-position: 100% 0%
+background-color: black
+
+.jumbo[<white>Inglés</white>]
+
+<div id="hBoxYellow"/>
+
+.huge[
+**A**<black>nit</black>**a**
+]
+
+.myfootnote[
+.jumbo[
+<white>Español</white>
+</br>
+]
+]
+
+---
+background-image: url("../site_libs/assets/img/vowel_space.png")
+background-size: 725px
+background-position: 50% 80%
+class: center
+
+.jumbo[<black>Las vocales</black>]
+
+---
+background-image: url("../site_libs/assets/img/red_circle.png"), url("../site_libs/assets/img/vowel_space.png")
+background-size: 100px, 725px
+background-position: 56.5% 59%, 50% 80%
+class: center
+
+.jumbo[<black>Las vocales</black>]
+
+---
+background-image: url("../site_libs/assets/img/red_circle.png"), url("../site_libs/assets/img/vowels.png"), url("../site_libs/assets/img/happy.png")
+background-size: 100px, 725px, 350px
+background-position: 36.5% 59%, 5% 80%, 95% 65%
+class: center
+
+.jumbo[<black>Las vocales del español</black>]
+
+---
+class: center
+
+.jumbo[<black>Las vocales del español</black>]
+
+</br></br></br>
+
+.left[
+.big[
+- <grey>Son más cortas</grey>
+]
+]
+
+--
+
+background-image: url("../site_libs/assets/img/tension1.png")
+background-position: 95% 50%
+background-size: 200px
+
+.left[
+.big[
+- <grey>Requieren</grey> <blue>MUCHA</blue> <grey>tensión</grey>
+]
+]
+
+---
+background-image: url("../site_libs/assets/img/tension3.png")
+background-size: contain
+background-position: 100% 50%
+
+.jumbo[&nbsp; &nbsp; <black>¿Tensión?</black>]
+
+--
+
+<div align="left">
+  <img width="65" src="../site_libs/assets/img/hfill.png">
+  <img width="410" src="../site_libs/assets/img/tension2.png">
+</div>
+
+---
+background-image: url("../site_libs/assets/img/vocal_i.png")
+background-size: 475px
+background-position: 50% 80%
+class: inverse
+
+.center[
+.jumbo[<white>Las vocales del español</white>]
+]
+
+</br></br></br></br></br>
+
+.pull-left[
+.jumbo[<white>[i]</white>]
+]
+
+---
+background-image: url("../site_libs/assets/img/vocal_e.png")
+background-size: 475px
+background-position: 50% 80%
+class: inverse
+
+.center[
+.jumbo[<white>Las vocales del español</white>]
+]
+
+</br></br></br></br></br>
+
+.pull-left[
+.jumbo[<white>[e]</white>]
+]
+
+---
+background-image: url("../site_libs/assets/img/vocal_a.png")
+background-size: 475px
+background-position: 50% 80%
+class: inverse
+
+.center[
+.jumbo[<white>Las vocales del español</white>]
+]
+
+</br></br></br></br></br>
+
+.pull-left[
+.jumbo[<white>[a]</white>]
+]
+
+---
+background-image: url("../site_libs/assets/img/vocal_o.png")
+background-size: 475px
+background-position: 50% 80%
+class: inverse
+
+.center[
+.jumbo[<white>Las vocales del español</white>]
+]
+
+</br></br></br></br></br>
+
+.pull-left[
+.jumbo[<white>[o]</white>]
+]
+
+---
+background-image: url("../site_libs/assets/img/vocal_u.png")
+background-size: 475px
+background-position: 50% 80%
+class: inverse
+
+.center[
+.jumbo[<white>Las vocales del español</white>]
+]
+
+</br></br></br></br></br>
+
+.pull-left[
+.jumbo[<white>[u]</white>]
+]
+
+---
+background-image: url("../site_libs/assets/img/schwa7.png")
+background-size: 850px
+background-position: 50% 95%
+class: center
+
+.jumbo[¡Hay que evitar la schwa!]
+
+---
+background-image: url("../site_libs/assets/img/schwa6.png")
+background-size: 200px
+background-position: 100% 0%
+background-color: black
+
+.jumbo[<white><strike>Inglés</strike></white>]
+
+<div id="hBoxYellowWide"/>
+
+.jumbo2[
+**A**<black>nit</black>**a** <black>es un</black>**a** </br> <black>chic</black>**a** <black>bonit</black>**a**<black>.</black>
+]
+
+.myfootnote[
+.jumbo[
+<white>Español</white>
+</br>
+]
+]
+
+---
+background-image: url("../site_libs/assets/img/questions.png")
+background-position: 0% 50%
+background-size: 50%
+class: middle
+
+.pull-right[
+.big[&nbsp; &nbsp; ¿Preguntas?]
+]
+
+---
+background-image: url("../site_libs/assets/img/schwa8.png")
+background-size: 200px
+background-position: 50% 70% 
+
+<div id="vBoxBlueLeft"/>
+
+.big2[
+fam**a**  
+mus**a**  
+tin**a**  
+mir**a**  
+chup**a**  
+Mayr**a** 
+]
+
+<div id="vBoxBlueRight"/>
+
+.big2[
+mis**a**  
+bes**a**  
+dig**a**  
+tuy**a**  
+habl**a**  
+Málag**a**
+]
+
+--
+
+background-image: url("../site_libs/assets/img/tension2.png"), url("../site_libs/assets/img/schwa8.png")
+background-size: 200px, 200px
+background-position: 50% 20%, 50% 70% 
+
+---
+background-image: url("../site_libs/assets/img/schwa8.png")
+background-size: 200px
+background-position: 50% 70% 
+
+<div id="vBoxBlueLeft"/>
+
+.big3[
+síl**a**b**a**  
+públ**i**co  
+termin**a**  
+s**u**plico   
+tercer**a**  
+d**i**recto  
+c**o**mid**a**
+]
+
+<div id="vBoxBlueRight"/>
+
+.big3[
+c**a**torce  
+describ**a**  
+méd**i**co  
+c**a**min**a**  
+s**i**ncero  
+lágr**i**m**a**  
+c**a**stillo
+]
+
+--
+
+background-image: url("../site_libs/assets/img/tension1.png"), url("../site_libs/assets/img/schwa8.png")
+background-size: 200px, 200px
+background-position: 50% 20%, 50% 70% 
+
+---
+background-image: url("../site_libs/assets/img/schwa9.png")
+background-size: 350px
+background-position: 2.5% 50%
+class: inverse
+
+<div id="twoThirdBox"/>
+
+.jumbo3[
+d**i**v**e**rtido  
+f**a**ntást**i**co  
+últim**a**ment**e**  
+r**e**públic**a**  
+M**a**rí**a**
+]
+
+---
+class: inverse, middle
+
+<div id="hStripBlackTop">
+
+.huge[<white>pol</white><red>i</red><white>cí</white><red>a</red>]
+
+</br>
+<img width="563" src="../site_libs/assets/img/hfillBlack.png">
+<img width="74" src="../site_libs/assets/img/rectangle.png">
+
+</div>
+
+<div id="vColBlueRight">
+
+.big[<white>El gran reto:</white> </br>
+
+**¿puedes articular la palabra siguiente**  
+]
+
+.jumbo[<black>sin acento?</black>]
+
+</div>
+
+</br></br>
+
+--
+
+background-image: url("../site_libs/assets/img/arrow.png")
+background-size: 60px
+background-position: 36% 45%
+
+.pull-left[
+.jumbo[**¡OJO!**]
+
+.big[¡No lleva el acento aquí!]
+]
+
+--
+
+background-image: url("../site_libs/assets/img/arrow.png"), url("../site_libs/assets/img/schwa9.png")
+background-size: 60px, 200px
+background-position: 58% 45%, 59% 84%
+
+---
+class: middle, center
+
+<div id="hStripBlue" align="center">
+  <h1><grey>¿</grey>Puedes articular este dicho sin acento<grey>?</grey></h1>
+</div>
+
+</br></br></br>
+
+.jumbo[
+Cort**e**sí**a** de  
+boc**a**, mucho  
+vale y poc**o**  
+cuest**a**.
+]
+
+---
+class: inverse, middle
+
+<div id="hStripBlackTop">
+
+.huge2[**u**<white>n</white>**i**<white>vers</white>**i**<white>d</white>**a**<white>d</white>]
+
+</div>
+
+<div id="vColBlueRight">
+
+.big[<white>El gran reto:</white> </br>
+
+**¿puedes articular la palabra siguiente**  
+]
+
+.jumbo[<black>sin acento?</black>]
+
+</div>
+
+</br></br>
+
+--
+
+background-image: url("../site_libs/assets/img/arrow.png")
+background-size: 60px
+background-position: 3% 45%
+
+.jumbo[**¡OJO!**]
+
+.big[No es "yuniversidad"]
+
+---
+class: inverse, middle
+
+<div id="hStripBlackTop">
+
+.huge2[**u**<white>n</white>**i**<white>vers</white>**i**<white>d</white>**a**<white>d</white>]
+
+</div>
+
+<div id="vColBlueRight">
+
+.big[<white>El gran reto:</white> </br>
+
+**¿puedes articular la palabra siguiente**  
+]
+
+.jumbo[<black>sin acento?</black>]
+
+</div>
+
+</br></br>
+
+--
+
+background-image: url("../site_libs/assets/img/arrow.png"), url("../site_libs/assets/img/schwa9.png"), url("../site_libs/assets/img/arrow.png")
+background-size: 60px, 300px, 60px
+background-position: 17% 45%, 27% 70%, 46% 45%
+
+---
+class: inverse, middle
+
+<div id="hStripBlackTop">
+
+.huge2[**u**<white>n</white>**i**<white>vers</white>**i**<white>d</white>**a**<white>d</white>]
+
+</div>
+
+<div id="vColBlueRight">
+
+.big[<white>El gran reto:</white> </br>
+
+**¿puedes articular la palabra siguiente**  
+]
+
+.jumbo[<black>sin acento?</black>]
+
+</div>
+
+</br></br>
+
+--
+
+background-image: url("../site_libs/assets/img/arrow.png")
+background-size: 60px
+background-position: 59% 45%
+
+.jumbo[**¡OJO!**]
+
+.big[No alargar]
+
+---
+background-image: url("../site_libs/assets/img/questions.png")
+background-position: 0% 50%
+background-size: 50%
+class: middle
+
+.pull-right[
+.big[&nbsp; &nbsp; ¿Preguntas?]
+]
+
+---
+class: middle
+
+.center[
+.big[**Algunas estrategias para mejorar la pronunciación**]
+]
+
+.big[
+1. Usar el espejo
+2. Hacer grabaciones
+3. Hablar lentamente
+4. Buscar un modelo
+5. Cantar
+]
+
+---
+background-image: url("../site_libs/assets/img/happy2.png")
+background-size: 500px
+background-position: 50% 70%
+class: center
+
+</br>
+
+.jumbo[¡Gracias por venir!]
+
+---
+
+# Referencias
+
+- Schwegler, A. (2013). Clínica de pronunciación. Middlebury College. 

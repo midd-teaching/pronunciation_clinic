@@ -1,0 +1,91 @@
+---
+title: "Clínica de pronuncación"
+author: "Joseph Casillas"
+date: "Middlebury College"
+output:
+  html_document:
+    fig_caption: yes
+    theme: united
+    toc: yes
+---
+
+# Enemigo 1 - La schwa
+
+## Repaso
+
+<div style="float: right">
+  <img width="200" src="imagenes/schwa_anti.jpg">  
+</div>
+
+La schwa es un sonido inacentuado que es frequente en inglés. Aparece en muchas palabras en posición átona.
+
+## El problema
+
+Este sonido no existe en español. El problema, entonces, gira en torno a la interferencia de esta vocal inglesa en la producción del español como segunda lengua (L2). 
+
+## La solución
+
+<div style="float: right">
+  <img width="200" src="imagenes/tension2.jpg">  
+</div>
+
+El aprendiz del español como L2 debe trabajar menuciosamente la producción de las 5 vocales del español. A saber: /i, e, a, o, u/. Es preciso que la producción de las mismas incluya mucha **tensión** en la boca, con una duración significativamente más corta con respecto a las vocales del inglés. 
+
+En resumen, las vocales del español deben ser **tensas** y **cortas** para evitar la schwa. A continuación algunas palabras que sirven para practicar. Hay que tener cuidado con las vocales en **negrita** para que no se pronuncien con la schwa.
+
+## Práctica
+
+- divertido
+- fantástico
+- últimamente 
+- república
+- María
+
+- **U**n**i**versid**a**d 
+    - ¡Ojo! No es “yuniversidad”. Cuidado con la vocal “i”. No alargar la última vocal (a).  
+
+
+- **Anit**a** es un**a** chic**a** bonit**a**. 
+
+# Enemigo 2 - La aspiración
+
+## Repaso
+
+## El problema 
+
+## La solución
+
+## Práctica
+
+
+# Enemigo 3 - La asimilación
+
+## Repaso
+
+## El problema 
+
+## La solución
+
+## Práctica
+
+
+# Enemigo 4 - El encadenamiento
+
+## Repaso
+
+## El problema 
+
+## La solución
+
+## Práctica
+
+
+# Enemigo 5 - Las vibrantes
+
+## Repaso
+
+## El problema 
+
+## La solución
+
+## Práctica
