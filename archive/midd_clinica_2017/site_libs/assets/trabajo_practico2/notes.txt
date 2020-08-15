@@ -1,0 +1,88 @@
+1 Rationale
+	- use of software to teach and practice prosody
+	- explore the effectiveness of computer software (Praat) in helping students to acquire prosodic features of English language
+	- examines and compare two different ways of teaching prosody to EFL learners
+	- this study looks at stress and intonation and examines the best way of teaching them through CALL approaches.
+
+
+
+2 Research question
+	- to what extent is each method effective and useful for students to develop their pronunciation abilities
+	- (1) To what extent does Praat software affect teaching stress and intonation among Iranian EFL learners
+	- (2) Is there any significant difference between the learners using CALL and Non-CALL approaches to learning stress and intonation through Praat software?
+
+
+
+3 Background
+	- Using technology in teaching pronunciation can be useful and effective in language classrooms
+	- traditional way is common in our country
+		- teacher-centered
+		- students have no role... sit and listen to the teacher's explanations and examples
+		- do exercises from the book
+		- memorize important info to pass exam
+	- importance of prosody
+		- the pitch accents can be detected to locate the focus of an utterance and assist semantic/pragmatic interpretation
+		- the general shape of the pitch contour of an utterance (e.g., rising, falling) can be analyzed to determine the sentence mood, e.g., question, statement, etc 
+		- mood and emotional state of the speaker can be detected by prosodic features of speech
+	- stress: 
+		- stressed syllable is more prominent that the surrounding ones (loudness, duration, increase pitch)
+		- stress is not predictable in English (primary, secondary, tertiary, weak)
+	- intonation:
+		- pitch (F0)
+		- the rise and fall of F0 on certain words in a sentence (indicates declaratives, questions, etc
+	- There has been a movement toward using computer technology in order to teach oral skills and help students to control their proficiency and pronunciation (Anderson-Hsieh, 1992; 1994; 1994)
+	- Can focus on segments or suprasegmentals (Wilson, 2005 used it for vowel duration)  
+
+
+
+4 Method
+	- Forty Iranian EFL learners
+	- intermediate proficiency
+	- male and female university students 
+	- TEFL majors 
+	- ranging the age from 18 to 35 years old
+	- Each group was given an exam about stress and intonation to determine their knowledge of the issue before the research
+	- assigned to one of two experimental groups
+		- control group received (Non-CALL approach) 
+			- existing traditional way (common in this country, phonology books)
+		- experimental group was through CALL approach
+			- modern way with the help of computer software (Praat)
+			- review of patterns of stress and intonation and then practiced the issue through Praat software in a computerized environment
+			- taught to use praat during sessions
+			- teacher initially discussed a phonological rule and then started to work with computer
+	- taught for 10 sessions
+		- 
+	- post-test at the end of treatment
+	- data analyzed using t-tests
+
+
+
+5 Results
+	- the difference between the experimental and control groups on post-test
+	- experimental group showed more learning of prosodic features through Praat software (p < .05)
+	- also showed that learners that practiced stress and intonation through CALL approach were more successful than the students who were taught through traditional method
+
+
+6 Conclusion
+	- CALL approaches can be used to teach speaking to our learners in an effective way
+ 	- In related studies experimental groups were more successful in communication and interaction with native speakers of English (this study didn't test this)
+	- This study used Praat, but there are many games and programs available that would conceivably have similar results
+ 	- The authors recommend teachers use Praat and explore other aspects of the target L2 phonology
+
+
+7  Interactive practice
+	- VOT Spanish
+
+
+8 other examples
+	- Praat + moodle/poll anywhere
+	- Class projects
+		- find a native speaker or an L2 learner Spanish
+		- record them saying 'taco' in English and Spanish
+		- compare their VOTs
+		- explain to them the POA of /t/ in English and Spanish
+		- explain to them the role of aspiration in English and Spanish
+		- rerecord them saying 'taco' in English and Spanish
+		- compare their VOTs
+		- Write a 1 page reflection about the use of Praat to teach pronunciation
+

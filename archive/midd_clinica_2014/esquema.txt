@@ -1,0 +1,23 @@
+Esquema - taller de pronunciación
+
+	- Problemas fundamentales
+		- Schwa
+			- evitarla en sílabas átonas
+			- enfatizar/reforzar las vocales puras
+		- Encadenamiento
+			- entre palabras
+			- grupos consonánticos
+		- Coronales (/b,d,g,p,t,k)
+			- evitar la aspiración
+			- espirantización ([b,d,g] > [β,ð,ɣ])
+			- punto de articulación de las dentales (inglés vs. español)
+			- véase "trabajo práctico 2"
+		- Laterales (/l/ vs. /ɭ˞/ "l oscura")
+		- Vibrantes (/ɾ/, /r/)
+		- Asimilación
+			- /s/ > [s] [z]
+			- /n/
+
+
+Video útiles
+- http://www.youtube.com/jvcasill
