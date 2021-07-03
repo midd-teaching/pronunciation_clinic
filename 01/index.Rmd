@@ -2,11 +2,11 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 1"
 author: "Joseph Casillas"
-date: "Middlebury College | 2018/07/10"
+date: "Middlebury College | 2021"
 output:
   xaringan::moon_reader:
     lib_dir: "./assets/"
-    css: ["default", "../site_libs/assets/css/mySlides.css"]
+    css: ["hygge", "https://raw.githubusercontent.com/midd-teaching/pc-assets/main/css/mySlides.css"]
     self_contained: FALSE
     nature:
       highlightStyle: monokai
