@@ -1,7 +1,9 @@
 ---
 title: "Clínica de pronunciación"
 subtitle: "Sesión 1"
-author: "Joseph Casillas"
+author: | 
+  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar,<br>
+  Hortensia Gutiérrez y Matt Dearstyne
 date: "Middlebury College | 2021"
 output:
   xaringan::moon_reader:
@@ -19,9 +21,9 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors.png")
-background-size: 400px
-background-position: 50% 90%
+background-image: url(https://raw.githubusercontent.com/jvcasillas/ru_xaringan/master/img/logo/ru_shield.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Georgetown_Hoyas_logo.svg/1020px-Georgetown_Hoyas_logo.svg.png), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors.png"), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors.png")
+background-size: 70px, 80px, 400px, 400px
+background-position: 15% 30%, 85% 30%, 10% 90%, 90% 90%
 class: inverse, center
 
 # Clínica de </br> pronunciación
