@@ -6,7 +6,7 @@ date: "Middlebury College | 2021"
 output:
   xaringan::moon_reader:
     lib_dir: "./assets/"
-    css: ["default", "hygge", "http://www.midd.jvcasillas.com/pc-assets/css/slides.css"]
+    css: ["default", "hygge", "https://www.midd.jvcasillas.com/pc-assets/css/slides.css"]
     self_contained: FALSE
     nature:
       highlightStyle: monokai
