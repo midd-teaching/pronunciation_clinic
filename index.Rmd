@@ -13,7 +13,7 @@ content <- c(
   "La schwa", "La aspiración de las oclusivas sordas", 
   "La espirantización", "El encadenamiento", "Las vibrantes"
   )
-base <- "https://www.mid.jvcasillas.com/pronunciation_clinic/"
+base <- "https://www.midd.jvcasillas.com/pronunciation_clinic/"
 sessions <- fs::dir_ls(path = ".", regexp = "0")
 end  <- "/index.html"
 
