@@ -1,0 +1,21 @@
+---
+title: "Clínica de pronunciación"
+date: "Última actualización: `r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = F)
+```
+
+```{r, links, results='asis'}
+content <- c(
+  "La schwa", "La aspiración de las oclusivas sordas", 
+  "La espirantización", "El encadenamiento", "Las vibrantes"
+  )
+base <- "https://www.mid.jvcasillas.com/pronunciation_clinic/"
+sessions <- fs::dir_ls(path = ".", regexp = "0")
+end  <- "/index.html"
+
+glue::glue("1. [{content}]({base}{sessions}{end})")[1]
+```
