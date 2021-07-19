@@ -11,11 +11,11 @@ knitr::opts_chunk$set(echo = F)
 ```{r, links, results='asis'}
 content <- c(
   "La schwa", "La aspiración de las oclusivas sordas", 
-  "La espirantización", "El encadenamiento", "Las vibrantes"
+  "Procesos de asimilación", "El encadenamiento", "Las vibrantes"
   )
 base <- "https://www.midd.jvcasillas.com/pronunciation_clinic/"
 sessions <- fs::dir_ls(path = ".", regexp = "0")
 end  <- "/index.html"
 
-glue::glue("1. [{content}]({base}{sessions}{end})")[1:2]
+glue::glue("1. [{content}]({base}{sessions}{end})")[1:3]
 ```
