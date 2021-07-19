@@ -668,22 +668,6 @@ background-position: 50% -80%
 
 <br><br>
 
-.jumbo[
-1. **P**ito
-2. **P**érez
-3. **p**uso
-4. el **p**a**p**el
-5. en el **p**u**p**i**t**re
-]
-
----
-
-<div id="hStripBlackTopThin" align="center">
-.bigGen[<white>¡No aspires!</white>]
-</div>
-
-<br><br>
-
 .big[
 1. **P**i**t**o **P**érez **p**uso el **p**a**p**el en el **p**u**p**itre.
 2. **P**ídele a **P**a**c**o un **p**o**c**o de **p**an.
@@ -955,7 +939,7 @@ class: middle
 - cui**d**a**d**o
 - mie**d**o
 - su**d**ar
-- la**d**ón
+- la**d**rón
 ]
 ]
 
@@ -1080,6 +1064,43 @@ class: middle, center
 
 .myfootnote[
 .left[Gustavo Adolfo Bécquer]]
+
+---
+class: middle
+
+<div id="hStrip" style="height:25%;background:yellow;" align="center">
+<br>
+.bigGen[**Articula en voz alta**]
+</div>
+
+<br><br><br><br><br>
+
+<div align="center" style="float:right">
+<br><br><br>
+.content-box-red[
+.bigGen[<white>[b, d, g]</white>]
+]
+.bigGen[dura]
+</div>
+
+.big3[
+- ten**g**o
+- tan**g**o
+- an**d**o
+- on**d**a
+- am**b**os, en**v**ío
+]
+
+---
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/questions.png")
+background-position: 0% 50%
+background-size: 50%
+class: middle
+
+.pull-right[
+.big[&nbsp; &nbsp; ¿Preguntas?]
+]
+
 
 
 
@@ -1267,7 +1288,7 @@ background-size: 400px
 <br><br><br>
 
 .jumbo[
-- mú**s**icólogo
+- mu**s**icólogo
 - belle**z**a
 - la **z**eta
 ]
