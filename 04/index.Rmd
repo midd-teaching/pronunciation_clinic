@@ -996,26 +996,6 @@ I**s**i**d**ora e**s** la **p**re**s**i**d**en**t**a **d**e la e**sc**uela **d**
 ]
 
 ---
-class: middle
-
-<div id="hStrip" style="height:25%;background:yellow;" align="center">
-<br>
-.bigGen[**RESUMEN**]
-</div>
-
-<br><br><br><br>
-
-.big[
-1. Hay que evitar la schwa /ə/
-2. Las vocales deben ser tensas y cortas
-3. No aspiramos /p, t, k/
-4. /t/ es dental (no alveolar)
-5. Pronunciamos /b, d, g/ “suave”
-6. /d/ es dental (no alveolar)
-7. “s” es suave (como la serpiente)
-]
-
----
 background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/questions.png")
 background-position: 0% 50%
 background-size: 50%
@@ -1476,6 +1456,26 @@ class: middle
 .big[&nbsp; &nbsp; ¿Preguntas?]
 ]
 
+---
+class: middle
+
+<div id="hStrip" style="height:15%;background:yellow;" align="center">
+<br>
+.big2[**RESUMEN**]
+</div>
+
+<br>
+
+.big[
+1. Hay que evitar la schwa /ə/
+2. Las vocales deben ser tensas y cortas
+3. No aspiramos /p, t, k/
+4. /t/ es dental (no alveolar)
+5. Pronunciamos /b, d, g/ “suave”
+6. /d/ es dental (no alveolar)
+7. “s” es suave (como la serpiente)
+8. **Enlazamos las palabras (VCV ->  V-CV)**
+]
 
 
 
