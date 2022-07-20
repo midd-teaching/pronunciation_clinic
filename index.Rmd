@@ -17,7 +17,7 @@ base <- "https://www.midd.jvcasillas.com/pronunciation_clinic/"
 sessions <- fs::dir_ls(path = ".", regexp = "0")
 end  <- "/index.pptx"
 
-glue::glue("1. [{content}]({base}{sessions}{end})")[1]
+glue::glue("1. [{content}]({base}{sessions}{end})")[1:2]
 ```
 
 <!--
