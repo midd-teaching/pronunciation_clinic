@@ -8,7 +8,7 @@ output: html_document
 knitr::opts_chunk$set(echo = F)
 ```
 
-```{r, links, results='asis'}
+```{r, links, results='asis', eval=F}
 content <- c(
   "La schwa", "La aspiración de las oclusivas sordas", 
   "Procesos de asimilación", "El encadenamiento", "Las vibrantes"
@@ -20,6 +20,8 @@ end  <- "/index.pptx"
 glue::glue("1. [{content}]({base}{sessions}{end})")[1:2]
 ```
 
-<!--
-1. [Las vibrantes](https://www.midd.jvcasillas.com/pronunciation_clinic/05/5_midd_clinica_2021.pptx)
--->
+
+1. [La schwa](https://www.midd.jvcasillas.com/pronunciation_clinic/01/index.pptx)
+1. [La aspiración de las oclusivas sordas](https://www.midd.jvcasillas.com/pronunciation_clinic/02/index.html)
+
+
