@@ -1101,12 +1101,12 @@ Paco Peco, poco pico.
 ---
 background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/happy2.png")
 background-size: 500px
-background-position: 50% 70%
+background-position: 50% 80%
 class: center
 
-</br>
-
 .jumbo[¡Gracias por venir!]
+
+## bit.ly/midd_clinica
 
 ---
 
