@@ -354,6 +354,11 @@ background-size: 200px, 200px
 background-position: 50% 20%, 50% 70% 
 
 ---
+background-color: black
+background-image: url(https://camo.githubusercontent.com/37e81bdeaa0f304a82faeb30e40291094e29838fb5dad86ad6089031266ec71c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61372f64332f63372f61376433633766613339306633303061393361653830303866666537653730342e676966)
+background-size: contain
+
+---
 background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/schwa8.png")
 background-size: 200px
 background-position: 50% 70% 
@@ -825,6 +830,85 @@ background-position: -50% 0%
 <red>t</red><grey>ú</grey>
 ]
 </div>
+
+---
+background-color: black
+class: center
+background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/square.png), url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/gato.png)
+background-size: 60px, 500px
+background-position: 76% 46%, 90% 75%
+
+.jumbo[<white>¡OJO!</br>/t/</white>]
+
+.pull-left[
+.content-box-red[
+.jumbo[<black>En inglés</br>es</br>alveolar</black>]
+]
+]
+
+.pull-right[
+<br><br><br><br><br><br>
+<br><br><br><br><br><br>
+<br><br><br>
+.Large[<white>Un gato</white>]
+]
+
+---
+class: center
+background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/rectangle2.png), url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/teeth.png)
+background-size: 200px, 475px
+background-position: 78% 43%, 90% 75%
+
+.jumbo[¡OJO!</br>/t/]
+
+.pull-left[
+.content-box-black[
+.jumbo[<black>En español</br>es</br></black>**dental**]
+]
+]
+
+---
+
+.big2[COMPARA...]
+
+.pull-left[
+![](https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/alveolar_poa.png)  
+.center[
+.big[inglés]
+]
+]
+
+.pull-right[
+![](https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/dental_poa.png)  
+.center[
+.big[español]
+]
+]
+
+---
+background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/alveolar_poa.png)
+background-size: contain
+
+---
+background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/dental_poa.png)
+background-size: contain
+
+---
+class: middle
+background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/alveolar_poa.png), url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/dental_poa.png)
+background-position: 5% 75%, 95% 75%
+background-size: 400px, 400px
+
+<div id="hStripThickYellow" height="30%" align="center">
+<br>
+.bigGen[.red[Articula</br>en voz alta]]
+<br>
+</div>
+
+<br><br><br><br>
+.center[
+.bigGen[<emph>taco</emph>]
+]
 
 ---
 background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/no.png), url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/wind.gif)
