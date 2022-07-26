@@ -2,9 +2,8 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 3"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar,<br>
-  Hortensia Gutiérrez y Matt Dearstyne
-date: "Middlebury College | 2021"
+  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, <br>Juan Manuel Menjívar y Hortensia Gutiérrez
+date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:
     lib_dir: "./assets/"
@@ -19,6 +18,14 @@ output:
 
 ```{r setup, include=FALSE}
 options(htmltools.dir.version = FALSE)
+```
+
+```{r}
+#| label: xaringan-extra-all-the-things
+#| echo: false
+xaringanExtra::use_xaringan_extra(
+  c("tile_view", "freezeframe")
+)
 ```
 
 background-image: url("https://raw.githubusercontent.com/jvcasillas/media/master/teaching/gifs/partner2.gif")
@@ -699,6 +706,7 @@ class: inverse, middle, center
 ]
 
 ---
+exclude: true
 class: middle
 background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/asimilacion.png)
 background-size: 1200px
@@ -1381,12 +1389,12 @@ class: middle
 ---
 background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/happy2.png")
 background-size: 500px
-background-position: 50% 70%
+background-position: 50% 80%
 class: center
 
-</br>
-
 .jumbo[¡Gracias por venir!]
+
+## **[bit.ly/midd_clinica](https://www.midd.jvcasillas.com/pronunciation_clinic/index.html)**
 
 ---
 

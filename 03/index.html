@@ -6,18 +6,33 @@
     <script src="assets/header-attrs/header-attrs.js"></script>
     <link href="assets/remark-css/default.css" rel="stylesheet" />
     <link href="assets/remark-css/hygge.css" rel="stylesheet" />
+    <link href="assets/tile-view/tile-view.css" rel="stylesheet" />
+    <script src="assets/tile-view/tile-view.js"></script>
+    <script src="assets/freezeframe/freezeframe.min.js"></script>
+    <script src="assets/xaringanExtra-freezeframe/freezeframe-init.js"></script>
+    <script id="xaringanExtra-freezeframe-options" type="application/json">{"selector":"img[src$=\"gif\"]","trigger":"click","overlay":false,"responsive":true,"warnings":true}</script>
     <link rel="stylesheet" href="https://www.midd.jvcasillas.com/pc-assets/css/slides.css" type="text/css" />
   </head>
   <body>
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
+.title[
 # Clínica de pronunciación
+]
+.subtitle[
 ## Sesión 3
-### <p>Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar,<br> Hortensia Gutiérrez y Matt Dearstyne</p>
-### Middlebury College | 2021
+]
+.author[
+### <p>Armin Schwegler, Joseph Casillas, Nicole Rodríguez, <br>Juan Manuel Menjívar y Hortensia Gutiérrez</p>
+]
+.date[
+### Middlebury College | Verano 2022
+]
 
 ---
+
+
 
 
 
@@ -700,6 +715,7 @@ class: inverse, middle, center
 ]
 
 ---
+exclude: true
 class: middle
 background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/asimilacion.png)
 background-size: 1200px
@@ -1382,12 +1398,12 @@ class: middle
 ---
 background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/happy2.png")
 background-size: 500px
-background-position: 50% 70%
+background-position: 50% 80%
 class: center
 
-&lt;/br&gt;
-
 .jumbo[¡Gracias por venir!]
+
+## **[bit.ly/midd_clinica](https://www.midd.jvcasillas.com/pronunciation_clinic/index.html)**
 
 ---
 
@@ -1531,6 +1547,19 @@ if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
     deleted = true;
   });
 })();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
 (function() {
   "use strict"
   // Replace <script> tags in slides area to make them executable
