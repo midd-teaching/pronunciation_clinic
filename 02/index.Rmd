@@ -359,7 +359,7 @@ Málag**a**
 
 --
 
-background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/tension2.png"), url("../site_libs/assets/img/schwa8.png")
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/tension2.png"), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/schwa8.png")
 background-size: 200px, 200px
 background-position: 50% 20%, 50% 70% 
 
@@ -399,7 +399,7 @@ c**a**stillo
 
 --
 
-background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/tension1.png"), url("../site_libs/assets/img/schwa8.png")
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/tension1.png"), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/schwa8.png")
 background-size: 200px, 200px
 background-position: 50% 20%, 50% 70% 
 
