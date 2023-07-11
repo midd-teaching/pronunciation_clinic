@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 3"
 author: | 
-  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, <br>Juan Manuel Menjívar y Hortensia Gutiérrez
+  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
 date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:

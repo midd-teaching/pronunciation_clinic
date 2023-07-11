@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 2"
 author: | 
-  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, <br>Juan Manuel Menjívar y Hortensia Gutiérrez
+  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
 date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:
@@ -30,12 +30,12 @@ xaringanExtra::use_xaringan_extra(
 )
 ```
 
-background-image: url(https://raw.githubusercontent.com/jvcasillas/ru_xaringan/master/img/logo/ru_shield.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Georgetown_Hoyas_logo.svg/1020px-Georgetown_Hoyas_logo.svg.png), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/clinica_2022.png")
-background-size: 70px, 80px, 700px
+background-image: url(https://raw.githubusercontent.com/jvcasillas/ru_xaringan/master/img/logo/ru_shield.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Georgetown_Hoyas_logo.svg/1020px-Georgetown_Hoyas_logo.svg.png), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors.png")
+background-size: 70px, 80px, 400px
 background-position: 15% 30%, 85% 30%, 50% 90%
 class: inverse, center
 
-# Clínica de </br> pronunciación
+# Clínica de pronunciación
 
 .big[
 

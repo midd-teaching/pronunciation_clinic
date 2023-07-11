@@ -2,9 +2,8 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 4"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar,<br>
-  Hortensia Gutiérrez y Matt Dearstyne
-date: "Middlebury College | 2021"
+  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
+date: "Middlebury College | 2023"
 output:
   xaringan::moon_reader:
     lib_dir: "./assets/"
