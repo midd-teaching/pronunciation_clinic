@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 4"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
+  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Leonardo Carvajal y Gabriela Constantin-Dureci
 date: "Middlebury College | 2023"
 output:
   xaringan::moon_reader:
