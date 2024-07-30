@@ -400,6 +400,26 @@ background-position: 50% -80%
 ]
 
 ---
+background-color: grey
+background-image: url(https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/profesor.png)
+background-size: 700px
+background-position: 50% 5%
+
+<div id="hStripBlackTopThin" align="center">
+.bigGen[<white>¡No aspires!</white>]
+</div>
+
+<div id="hStripYellowBottom">
+.myfootnote[
+.bigGen[&nbsp; <grey>El <grey>**p**<grey>rofesor</grey><br>&nbsp; **c**<grey>aga </grey>**c**<grey>a</grey>**c**<grey>a</grey>]
+]
+</div>
+
+.footnote[
+.bigGen[&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; /**p, k**/]
+]
+
+---
 
 <div id="hStripBlackTopThin" align="center">
 .bigGen[<white>¡No aspires!</white>]
