@@ -37,9 +37,9 @@ glue::glue("1. [{content}]({base}{sessions}{end})")[1:2]
 
 
 1. [La schwa](https://www.midd.jvcasillas.com/pronunciation_clinic/01/index.html)
+<!--
 1. [La aspiración de las oclusivas sordas](https://www.midd.jvcasillas.com/pronunciation_clinic/02/index.pdf)
 1. [/bdg/, /s/](https://www.midd.jvcasillas.com/pronunciation_clinic/03/index.pptx)
 1. [El encadenamiento](https://www.midd.jvcasillas.com/pronunciation_clinic/04/index.html)
 1. [Las vibrantes](https://www.midd.jvcasillas.com/pronunciation_clinic/05/index_2.pptx)
-<!--
 -->
