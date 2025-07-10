@@ -101,7 +101,7 @@ background-position: 70% 50%
 
 .jumbo[
 
-<grey>Sacar el acento</grey>
+<grey>Mejorar el acento</grey>
 
 ]
 
@@ -143,6 +143,16 @@ Individual
 ]
 
 ---
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/questions.png")
+background-position: 0% 50%
+background-size: 50%
+class: middle
+
+.pull-right[
+.big[&nbsp; &nbsp; ¿Preguntas?]
+]
+
+---
 background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/doctors.png")
 background-position: 50% 40%
 background-size: 65%
@@ -158,21 +168,17 @@ class: bottom, center
 
 --
 
+.big[
+<white>(sí)</white>
+]
+
+--
+
 <div id="hStripYellow"/>
 
 <div id="hStripBorder"/>
 
 .jumbo[<black>¡**Hola, chica bonita**!</black>]
-
----
-background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/questions.png")
-background-position: 0% 50%
-background-size: 50%
-class: middle
-
-.pull-right[
-.big[&nbsp; &nbsp; ¿Preguntas?]
-]
 
 ---
 class: inverse, middle, center
