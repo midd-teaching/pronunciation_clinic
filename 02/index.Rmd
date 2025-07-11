@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 2"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Leonardo Carvajal y Gabriela Constantin-Dureci
+  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Leonardo Carvajal y Juan José Garrido Pozú
 date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:
@@ -30,9 +30,9 @@ xaringanExtra::use_xaringan_extra(
 )
 ```
 
-background-image: url(https://raw.githubusercontent.com/jvcasillas/ru_xaringan/master/img/logo/ru_shield.png), url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Georgetown_Hoyas_logo.svg/1020px-Georgetown_Hoyas_logo.svg.png), url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors.png")
-background-size: 70px, 80px, 400px
-background-position: 15% 30%, 85% 30%, 50% 90%
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors_2025.png")
+background-size: 650px
+background-position: 50% 90%
 class: inverse, center
 
 # Clínica de pronunciación
@@ -75,7 +75,7 @@ background-position: 70% 50%
 
 .jumbo[
 
-<grey>Sacar el acento</grey>
+<grey>Mejorar el acento</grey>
 
 ]
 
@@ -563,21 +563,6 @@ class: middle
 
 .pull-right[
 .big[&nbsp; &nbsp; ¿Preguntas?]
-]
-
----
-class: middle
-
-.center[
-.big[**Algunas estrategias para mejorar la pronunciación**]
-]
-
-.big[
-1. Usar el espejo
-2. Hacer grabaciones
-3. Hablar lentamente
-4. Buscar un modelo
-5. Cantar
 ]
 
 ---
@@ -1106,6 +1091,21 @@ insultaba como un loco
 a su tío Federico;  
 y éste dijo: Poco a poco,  
 Paco Peco, poco pico.
+]
+
+---
+class: middle
+
+.center[
+.big[**Algunas estrategias para mejorar la pronunciación**]
+]
+
+.big[
+1. Usar el espejo
+2. Hacer grabaciones
+3. Hablar lentamente
+4. Buscar un modelo
+5. Cantar
 ]
 
 ---
