@@ -2,8 +2,8 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 1"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Juan José Garrido y Leonardo Carvajal
-date: "Middlebury College | 2025"
+  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Juan y Leonardo Carvajal
+date: "Middlebury College | 2026"
 output:
   xaringan::moon_reader:
     lib_dir: "./assets/"
@@ -903,6 +903,28 @@ class: middle
 .big[
 <br><br>
 [bit.ly/midd_clinica](bit.ly/midd_clinica)
+]
+]
+
+---
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/qr_2026.png")
+background-size: 375px
+background-position: 15% 70%
+
+.center[
+.big[**Mejor todavía...<br>TUTORÍAS**]
+]
+
+.pull-left[
+.big[
+
+]
+]
+
+.pull-right[
+.big[
+<br><br>
+[bit.ly/clinica_tutorias](bit.ly/clinica_tutorias)
 ]
 ]
 
