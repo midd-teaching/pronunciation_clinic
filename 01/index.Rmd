@@ -924,7 +924,7 @@ background-position: 15% 70%
 .pull-right[
 .big[
 <br><br>
-[bit.ly/clinica_tutorias](bit.ly/clinica_tutorias)
+[https://bit.ly/clinica_tutorias](bit.ly/clinica_tutorias)
 ]
 ]
 
