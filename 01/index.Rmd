@@ -20,7 +20,7 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
-background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors_2025.png")
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors_2026.png")
 background-size: 500px
 background-position: 50% 80%
 class: inverse, center
@@ -923,8 +923,12 @@ background-position: 15% 70%
 
 .pull-right[
 .big[
-<br><br>
-[https://bit.ly/clinica_tutorias](bit.ly/clinica_tutorias)
+<br>
+[bit.ly/clinica_tutorias](https://bit.ly/clinica_tutorias)
+]
+<br>
+.Large[
+Fecha límite para apuntarse:<br>**ESTE DOMINGO al mediodía**
 ]
 ]
 
