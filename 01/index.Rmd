@@ -923,11 +923,7 @@ background-position: 15% 70%
 
 .pull-right[
 .big[
-<br>
-[bit.ly/clinica_tutorias](https://bit.ly/clinica_tutorias)
-]
-<br>
-.Large[
+[bit.ly/clinica_tutorias](https://bit.ly/clinica_tutorias)  
 Fecha límite para apuntarse:<br>**ESTE DOMINGO al mediodía**
 ]
 ]
