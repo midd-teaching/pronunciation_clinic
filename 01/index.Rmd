@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 1"
 author: | 
-  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Juan y Leonardo Carvajal
+  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
 date: "Middlebury College | 2026"
 output:
   xaringan::moon_reader:
