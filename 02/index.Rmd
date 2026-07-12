@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 2"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Leonardo Carvajal y Juan José Garrido Pozú
+  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
 date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:
@@ -30,7 +30,7 @@ xaringanExtra::use_xaringan_extra(
 )
 ```
 
-background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors_2025.png")
+background-image: url("https://raw.githubusercontent.com/midd-teaching/pc-assets/main/img/instructors_2026.png")
 background-size: 650px
 background-position: 50% 90%
 class: inverse, center
