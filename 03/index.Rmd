@@ -2,7 +2,7 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 3"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Juan José Garrido y Leonardo Carvajal
+  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
 date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:
@@ -375,7 +375,7 @@ background-position: 48% 45%
 
 ---
 background-color: black
-background-image: url(https://camo.githubusercontent.com/37e81bdeaa0f304a82faeb30e40291094e29838fb5dad86ad6089031266ec71c/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f61372f64332f63372f61376433633766613339306633303061393361653830303866666537653730342e676966)
+background-image: url(https://www.reactiongifs.com/wp-content/uploads/2011/12/Gladiator_Thumb_Down_01.gif)
 background-size: contain
 
 ---
