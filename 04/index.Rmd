@@ -2,8 +2,8 @@
 title: "Clínica de pronunciación"
 subtitle: "Sesión 4"
 author: | 
-  Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>Juan José Garrido y Leonardo Carvajal
-date: "Middlebury College | 2025"
+  Armin Schwegler, Joseph Casillas, Nicole Rodríguez, Juan Manuel Menjívar<br>y Leonardo Carvajal
+date: "Middlebury College | Verano `r substring(Sys.Date(), 0, 4)`"
 output:
   xaringan::moon_reader:
     lib_dir: "./assets/"
